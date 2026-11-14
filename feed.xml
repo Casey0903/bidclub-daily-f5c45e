@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>BidClub 每日播客（私人）</title>
+  <link>https://casey0903.github.io/bidclub-daily-f5c45e/</link>
+  <atom:link href="https://casey0903.github.io/bidclub-daily-f5c45e/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>zh-cn</language>
+  <description>BidClub 每日精选：简洁版摘要、详细版摘要与听原文节目的原始音频。仅供个人收听。</description>
+  <itunes:author>Casey</itunes:author>
+  <itunes:owner><itunes:name>Casey</itunes:name></itunes:owner>
+  <itunes:image href="https://casey0903.github.io/bidclub-daily-f5c45e/artwork.jpg"/>
+  <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:type>episodic</itunes:type>
+  <lastBuildDate>Sat, 14 Nov 2026 12:19:47 -0000</lastBuildDate>
+  <item>
+    <title>BidClub 11月14日 · 4期</title>
+    <guid isPermaLink="false">bidclub-2026-11-14-bidclub-2026-11-14.mp3</guid>
+    <pubDate>Sat, 14 Nov 2026 01:00:00 -0000</pubDate>
+    <enclosure url="https://github.com/Casey0903/bidclub-daily-f5c45e/releases/download/ep-2026-11-14/bidclub-2026-11-14.mp3" length="82952620" type="audio/mpeg"/>
+    <itunes:duration>13811</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <description><![CDATA[BidClub 每日播客 2026-11-14，共 4 期。
+🎧听原文｜硅谷坐标 Silicon Valley Vector：硅谷坐标 × 周默：深度拆解科技巨头 Q3 财报｜AI 投资进入验证期
+🎧听原文｜TBPN：《黄仁勋离任或将永远改变AI行业》— Dylan Patel
+📖读摘要｜晚点聊 LateTalk：187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
+📖读摘要｜Sharp Tech：Jensen Huang之后的Nvidia：AI、芯片禁令与华盛顿 | Ben Thompson《Sharp Tech》
+
+章节：
+0:00:00 开场
+0:00:19 第一部分 · 简洁版摘要
+0:14:45 第二部分 · 详细版 1：硅谷坐标 Silicon Valley Vector
+0:44:12 第二部分 · 详细版 2：TBPN
+0:51:58 第二部分 · 详细版 3：晚点聊 LateTalk
+1:23:04 第二部分 · 详细版 4：Sharp Tech
+1:47:26 第三部分 · 原文：硅谷坐标 Silicon Valley Vector
+1:47:43 原文：硅谷坐标 × 周默：深度拆解科技巨头 Q3 财报｜AI 投资进入验证期
+3:18:51 第三部分 · 原文：TBPN
+3:19:03 原文：《黄仁勋离任或将永远改变AI行业》— Dylan Patel]]></description>
+    <itunes:summary><![CDATA[BidClub 每日播客 2026-11-14，共 4 期。
+🎧听原文｜硅谷坐标 Silicon Valley Vector：硅谷坐标 × 周默：深度拆解科技巨头 Q3 财报｜AI 投资进入验证期
+🎧听原文｜TBPN：《黄仁勋离任或将永远改变AI行业》— Dylan Patel
+📖读摘要｜晚点聊 LateTalk：187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
+📖读摘要｜Sharp Tech：Jensen Huang之后的Nvidia：AI、芯片禁令与华盛顿 | Ben Thompson《Sharp Tech》
+
+章节：
+0:00:00 开场
+0:00:19 第一部分 · 简洁版摘要
+0:14:45 第二部分 · 详细版 1：硅谷坐标 Silicon Valley Vector
+0:44:12 第二部分 · 详细版 2：TBPN
+0:51:58 第二部分 · 详细版 3：晚点聊 LateTalk
+1:23:04 第二部分 · 详细版 4：Sharp Tech
+1:47:26 第三部分 · 原文：硅谷坐标 Silicon Valley Vector
+1:47:43 原文：硅谷坐标 × 周默：深度拆解科技巨头 Q3 财报｜AI 投资进入验证期
+3:18:51 第三部分 · 原文：TBPN
+3:19:03 原文：《黄仁勋离任或将永远改变AI行业》— Dylan Patel]]></itunes:summary>
+  </item>
+</channel>
+</rss>
