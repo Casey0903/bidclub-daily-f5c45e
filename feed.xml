@@ -13,7 +13,34 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sun, 15 Nov 2026 01:06:15 -0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 01:05:56 -0000</lastBuildDate>
+  <item>
+    <title>BidClub 11月16日 · 1期</title>
+    <guid isPermaLink="false">bidclub-2026-11-16-bidclub-2026-11-16.mp3</guid>
+    <pubDate>Mon, 16 Nov 2026 01:00:00 -0000</pubDate>
+    <enclosure url="https://github.com/Casey0903/bidclub-daily-f5c45e/releases/download/ep-2026-11-16/bidclub-2026-11-16.mp3" length="50780748" type="audio/mpeg"/>
+    <itunes:duration>6340</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <description><![CDATA[BidClub 每日播客 2026-11-16，共 1 期。
+🎧听原文｜晚点聊 LateTalk：188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
+
+章节：
+0:00:00 开场
+0:00:19 第一部分 · 简洁版摘要
+0:04:29 第二部分 · 详细版 1：晚点聊 LateTalk
+0:29:10 第三部分 · 原文：晚点聊 LateTalk
+0:29:26 原文：188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖]]></description>
+    <itunes:summary><![CDATA[BidClub 每日播客 2026-11-16，共 1 期。
+🎧听原文｜晚点聊 LateTalk：188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
+
+章节：
+0:00:00 开场
+0:00:19 第一部分 · 简洁版摘要
+0:04:29 第二部分 · 详细版 1：晚点聊 LateTalk
+0:29:10 第三部分 · 原文：晚点聊 LateTalk
+0:29:26 原文：188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖]]></itunes:summary>
+  </item>
   <item>
     <title>BidClub 11月15日 · 3期</title>
     <guid isPermaLink="false">bidclub-2026-11-15-bidclub-2026-11-15.mp3</guid>
