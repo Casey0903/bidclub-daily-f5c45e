@@ -13,7 +13,30 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sun, 22 Nov 2026 01:08:07 -0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 01:02:25 -0000</lastBuildDate>
+  <item>
+    <title>BidClub 11月23日 · 1期</title>
+    <guid isPermaLink="false">bidclub-2026-11-23-bidclub-2026-11-23.mp3</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:00 -0000</pubDate>
+    <enclosure url="https://github.com/Casey0903/bidclub-daily-f5c45e/releases/download/ep-2026-11-23/bidclub-2026-11-23.mp3" length="19305168" type="audio/mpeg"/>
+    <itunes:duration>2410</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <description><![CDATA[BidClub 每日播客 2026-11-23，共 1 期。
+📖读摘要｜硅谷101：E259｜机械神教与反人性策略：华尔街量化巨头的AI之路
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:04:14 第二部分 · 详细版 1：硅谷101]]></description>
+    <itunes:summary><![CDATA[BidClub 每日播客 2026-11-23，共 1 期。
+📖读摘要｜硅谷101：E259｜机械神教与反人性策略：华尔街量化巨头的AI之路
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:04:14 第二部分 · 详细版 1：硅谷101]]></itunes:summary>
+  </item>
   <item>
     <title>BidClub 11月22日 · 5期</title>
     <guid isPermaLink="false">bidclub-2026-11-22-bidclub-2026-11-22.mp3</guid>
