@@ -13,7 +13,42 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Mon, 23 Nov 2026 01:02:25 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 01:03:52 -0000</lastBuildDate>
+  <item>
+    <title>BidClub 11月25日 · 4期</title>
+    <guid isPermaLink="false">bidclub-2026-11-25-bidclub-2026-11-25.mp3</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:00 -0000</pubDate>
+    <enclosure url="https://github.com/Casey0903/bidclub-daily-f5c45e/releases/download/ep-2026-11-25/bidclub-2026-11-25.mp3" length="34023770" type="audio/mpeg"/>
+    <itunes:duration>4248</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <description><![CDATA[BidClub 每日播客 2026-11-25，共 4 期。
+📖读摘要｜Invest Like the Best：这是网络安全的黑暗时代
+📖读摘要｜Moonshots：特朗普请回 Jensen，OpenAI 提出 AI 限速方案，AI 通过镜像测试 | EP #315
+📖读摘要｜Empire：Google将华尔街带上链的计划 | Rich Widmann
+📖读摘要｜Hard Fork：Trump为何让Jensen Huang重新执掌Nvidia | Hard Fork
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:13:13 第二部分 · 详细版 1：Invest Like the Best
+0:30:37 第二部分 · 详细版 2：Moonshots
+0:46:46 第二部分 · 详细版 3：Empire
+1:03:23 第二部分 · 详细版 4：Hard Fork]]></description>
+    <itunes:summary><![CDATA[BidClub 每日播客 2026-11-25，共 4 期。
+📖读摘要｜Invest Like the Best：这是网络安全的黑暗时代
+📖读摘要｜Moonshots：特朗普请回 Jensen，OpenAI 提出 AI 限速方案，AI 通过镜像测试 | EP #315
+📖读摘要｜Empire：Google将华尔街带上链的计划 | Rich Widmann
+📖读摘要｜Hard Fork：Trump为何让Jensen Huang重新执掌Nvidia | Hard Fork
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:13:13 第二部分 · 详细版 1：Invest Like the Best
+0:30:37 第二部分 · 详细版 2：Moonshots
+0:46:46 第二部分 · 详细版 3：Empire
+1:03:23 第二部分 · 详细版 4：Hard Fork]]></itunes:summary>
+  </item>
   <item>
     <title>BidClub 11月23日 · 1期</title>
     <guid isPermaLink="false">bidclub-2026-11-23-bidclub-2026-11-23.mp3</guid>
