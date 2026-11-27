@@ -13,7 +13,38 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 26 Nov 2026 01:05:28 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 01:04:05 -0000</lastBuildDate>
+  <item>
+    <title>BidClub 11月27日 · 3期</title>
+    <guid isPermaLink="false">bidclub-2026-11-27-bidclub-2026-11-27.mp3</guid>
+    <pubDate>Fri, 27 Nov 2026 01:00:00 -0000</pubDate>
+    <enclosure url="https://github.com/Casey0903/bidclub-daily-f5c45e/releases/download/ep-2026-11-27/bidclub-2026-11-27.mp3" length="33650899" type="audio/mpeg"/>
+    <itunes:duration>4201</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <description><![CDATA[BidClub 每日播客 2026-11-27，共 3 期。
+📖读摘要｜The Cognitive Revolution：AI:AM：数字非涨不可？Christiano的警告、Jensen回归，以及GiveDirectly面向穷人的提案
+📖读摘要｜20VC：黄仁勋回归带回1万亿美元市值；Anthropic史上最大IPO
+📖读摘要｜1000x：加密货币已死？！
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:11:30 第二部分 · 详细版 1：The Cognitive Revolution
+0:39:09 第二部分 · 详细版 2：20VC
+0:57:49 第二部分 · 详细版 3：1000x]]></description>
+    <itunes:summary><![CDATA[BidClub 每日播客 2026-11-27，共 3 期。
+📖读摘要｜The Cognitive Revolution：AI:AM：数字非涨不可？Christiano的警告、Jensen回归，以及GiveDirectly面向穷人的提案
+📖读摘要｜20VC：黄仁勋回归带回1万亿美元市值；Anthropic史上最大IPO
+📖读摘要｜1000x：加密货币已死？！
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:11:30 第二部分 · 详细版 1：The Cognitive Revolution
+0:39:09 第二部分 · 详细版 2：20VC
+0:57:49 第二部分 · 详细版 3：1000x]]></itunes:summary>
+  </item>
   <item>
     <title>BidClub 11月26日 · 1期</title>
     <guid isPermaLink="false">bidclub-2026-11-26-bidclub-2026-11-26.mp3</guid>
