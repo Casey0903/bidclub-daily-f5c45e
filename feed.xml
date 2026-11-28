@@ -13,7 +13,34 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Fri, 27 Nov 2026 01:04:05 -0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 01:02:41 -0000</lastBuildDate>
+  <item>
+    <title>BidClub 11月28日 · 2期</title>
+    <guid isPermaLink="false">bidclub-2026-11-28-bidclub-2026-11-28.mp3</guid>
+    <pubDate>Sat, 28 Nov 2026 01:00:00 -0000</pubDate>
+    <enclosure url="https://github.com/Casey0903/bidclub-daily-f5c45e/releases/download/ep-2026-11-28/bidclub-2026-11-28.mp3" length="16574542" type="audio/mpeg"/>
+    <itunes:duration>2069</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <description><![CDATA[BidClub 每日播客 2026-11-28，共 2 期。
+📖读摘要｜Dwarkesh Podcast：一场关于 AI 领域正在发生什么的坦诚对话
+📖读摘要｜Latent Space：AI训练数据市场内幕——Gabe Greenberg（G2i）
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:06:35 第二部分 · 详细版 1：Dwarkesh Podcast
+0:26:11 第二部分 · 详细版 2：Latent Space]]></description>
+    <itunes:summary><![CDATA[BidClub 每日播客 2026-11-28，共 2 期。
+📖读摘要｜Dwarkesh Podcast：一场关于 AI 领域正在发生什么的坦诚对话
+📖读摘要｜Latent Space：AI训练数据市场内幕——Gabe Greenberg（G2i）
+
+章节：
+0:00:00 开场
+0:00:16 第一部分 · 简洁版摘要
+0:06:35 第二部分 · 详细版 1：Dwarkesh Podcast
+0:26:11 第二部分 · 详细版 2：Latent Space]]></itunes:summary>
+  </item>
   <item>
     <title>BidClub 11月27日 · 3期</title>
     <guid isPermaLink="false">bidclub-2026-11-27-bidclub-2026-11-27.mp3</guid>
